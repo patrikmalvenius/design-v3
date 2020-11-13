@@ -20,7 +20,7 @@ body {
 
 header {
     flex: 0 0 auto;
-    background-color: #45a397;
+    background-color: $header-color;
     color: #2b2e30;
     padding: 0 2em;
 }
@@ -70,15 +70,28 @@ header a, .site-header a:visited {
     display: block;
 }
 
+.flash-img {
+    max-height: 5em;
+    width: 100%;
+}
+
 /* Main */
 
 .main {
     flex: 1 0 auto;
     padding: 5%;
-    background-color: #f0f0f0;
+    background-color: $main-color;
     width: 75%;
     margin: auto;
     flex: 1 0 auto;
+}
+
+.me_start {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+    padding: 1em;
 }
 
 /* Footer */
@@ -98,4 +111,12 @@ header a, .site-header a:visited {
 
 .footer .social {
     float: right;
+}
+
+
+
+@media (max-width: 767px) {
+    .title, .logo {
+        padding: 0.5em 0.5em 0.5em 0;
+    }
 }
