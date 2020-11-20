@@ -6662,6 +6662,10 @@ header a, .site-header a:visited {
   gap: 1em 1em;
 }
 
+.kmom {
+  grid-template-columns: 30% auto;
+}
+
 .grid-wrap h1 {
   grid-column: span 3;
   justify-self: center;
@@ -6700,6 +6704,20 @@ header a, .site-header a:visited {
   height: 100%;
 }
 
+.kmom-cont {
+  grid-column: span 2;
+}
+
+.grid-item-kmom-side {
+  grid-column: 1;
+  margin: 2em;
+}
+
+.grid-item-kmom {
+  grid-column: 2;
+  grid-row: 1 span;
+}
+
 @media (max-width: 767px) {
   .grid-wrap h1 {
     grid-column: span 1;
@@ -6708,5 +6726,18 @@ header a, .site-header a:visited {
 
   .grid-item.project {
     grid-column: span 1;
+  }
+
+  .grid-item-kmom-side {
+    display: none;
+  }
+
+  .grid-item-kmom {
+    grid-column: span 2;
+    grid-row: 1 span;
+  }
+
+  h1 {
+    font-size: 1.5em;
   }
 }
