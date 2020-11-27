@@ -9,6 +9,7 @@
 
 html, body {
     height: 100%;
+    background-color: $body-background-color;
 }
 
 body {
@@ -16,17 +17,21 @@ body {
     flex-direction: column;
 }
 
+a {
+    color: $anchor-color;
+}
+
 /* Header */
 
 header {
     flex: 0 0 auto;
-    background-color: $header-color;
-    color: #2b2e30;
+    background-color: $header-background-color;
+    color: $header-color;
     padding: 0 2em;
 }
 
-header a, .site-header a:visited {
-    color: #2b2e30;
+.site-header a:visited {
+    color: $header-anchor-color;
 }
 
 .title, .logo {
@@ -36,7 +41,7 @@ header a, .site-header a:visited {
 
 .title * {
     margin: 0;
-    color: #111;
+    color: $title-color;
 }
 
 .title p {
@@ -80,7 +85,8 @@ header a, .site-header a:visited {
 .main {
     flex: 1 0 auto;
     padding: 5%;
-    background-color: $main-color;
+    background-color: $main-background-color;
+    color: $main-color;
     width: 75%;
     margin: auto;
     flex: 1 0 auto;
@@ -98,15 +104,15 @@ header a, .site-header a:visited {
 
 .footer {
     flex: 0 0 auto;
-    background: #45a397;
-    color: #2b2e30;
+    background: $footer-background;
+    color: $footer-color;
     padding: 2em;
-    border-top: 2px solid #344543;
+    border-top: 2px solid $border-color;
     margin-top: 1em;
 }
 
 .footer a {
-    color: #f0f0f0;
+    color: $footer-color;
 }
 
 .footer .social {

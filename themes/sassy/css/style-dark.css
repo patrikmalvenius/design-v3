@@ -6467,7 +6467,7 @@ template {
 
 html, body {
   height: 100%;
-  background-color: #E7F3EF;
+  background-color: #093426;
 }
 
 body {
@@ -6476,13 +6476,13 @@ body {
 }
 
 a {
-  color: #093426;
+  color: #C1E1D7;
 }
 
 /* Header */
 header {
   flex: 0 0 auto;
-  background-color: #79BEA8;
+  background-color: #093426;
   color: #E7F3EF;
   padding: 0 2em;
 }
@@ -6498,7 +6498,7 @@ header {
 
 .title * {
   margin: 0;
-  color: #093426;
+  color: #C1E1D7;
 }
 
 .title p {
@@ -6541,8 +6541,8 @@ header {
 .main {
   flex: 1 0 auto;
   padding: 5%;
-  background-color: rgba(231, 243, 239, 0.8);
-  color: #093426;
+  background-color: #23483C;
+  color: #E7F3EF;
   width: 75%;
   margin: auto;
   flex: 1 0 auto;
@@ -6559,10 +6559,10 @@ header {
 /* Footer */
 .footer {
   flex: 0 0 auto;
-  background: #23483C;
+  background: #093426;
   color: #E7F3EF;
   padding: 2em;
-  border-top: 2px solid #093426;
+  border-top: 2px solid #23483C;
   margin-top: 1em;
 }
 
@@ -6607,7 +6607,7 @@ header {
 
 #nav ul {
   list-style: none;
-  color: #093426;
+  color: #C1E1D7;
   margin: 0;
   padding: 0;
 }
@@ -6688,7 +6688,7 @@ header {
 }
 
 .grid-item h3 {
-  background-color: #79BEA8;
+  background-color: #093426;
   padding: 0.5em;
 }
 

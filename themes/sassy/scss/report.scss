@@ -13,7 +13,7 @@
 }
 
 .grid-item {
-    border: 0.2em solid #736968;
+    border: 0.2em solid $report-border-color;
     position: relative;
 }
 
@@ -22,7 +22,7 @@
 }
 
 .grid-item h3 {
-    background-color: #cc2514;
+    background-color: $header-background-color;
     padding: 0.5em;
 }
 
