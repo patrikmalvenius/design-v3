@@ -1,9 +1,10 @@
 ---
-Title: Kmom01
-Description: Rapport för kmom01
+Title: Kmom 1
+Description: Rapport för kmom 1
+Template: kmom
 ---
 
-Kmom01
+Kmom 1
 ==================
 
 Jag har inte jobbat med CMS på detta sätt tidigare, utan bara genom webbaserade gränssnitt (Wordpress-sajt, SiteVision). De tekniker jag är bekant med sedan tidigare är html, php och css - twig är nytt för mig, likaså yml som verkar ha ett format som gör att man kan peka ut innehåll med dot-notation så att säga - widescreen-läget verkar pekas ut på så sätt, om jag tolkar det hela rätt.
