@@ -6687,9 +6687,12 @@ header {
   grid-column: span 3;
 }
 
-.grid-item h3 {
+.grid-item h1 {
   background-color: #093426;
   padding: 0.5em;
+  font-size: 1em;
+  margin: 0em;
+  display: block;
 }
 
 .grid-item i {
@@ -6698,7 +6701,7 @@ header {
 }
 
 .grid-item p {
-  height: 5em;
+  height: 7em;
 }
 
 .grid-item a {
