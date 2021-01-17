@@ -41,7 +41,7 @@ Sidan använder sig av fonten Roboto för både rubriker och brödtext. Huvudrub
 Naturskyddsföreningen är Sveriges äldsta miljöförening, och har således ett arv att förvalta. Jag tror att föreningens ambition med sidan är att dels förmedla information, och dels mana till handling på miljöomnrådet. Jag tror vidare att föreningens målgrupp är väldigt bred - sidan skall tilltala miljöintresserade människor från alla åldrar, samt människor som är mer intresserade av naturupplevelser jämte människor som har mer fokus på miljögifter, dalande biologisk mångfald och klimatkrisen. Jag tycker att detta avspeglas väl i valet av en lugn basfärg -  #B9D232 - som kontrasteras av den "sobert dramatiska" #202020 i footer och utfälld navbar. Typsnittet är milt och lättläst, samma som jag har valt till min portfolio.
 <br/>
 <br/>
-![SNF](%assets_url%/img/snf.png){.me_start}
+![SNF](%assets_url%/img/snf.PNG){.me_start}
 
 WWF
 
@@ -64,7 +64,7 @@ Fonten som används är "wwf" sans-serif för h1-h3. För ingresser används Sou
 WWF har nog också funnit med ett bra tag, även om jag inte vet hur länge. Föreningen jobbar ju vad jag kan förstå mycket med djur, och det framgår tydligt på sidan, som i stor grad består av bilder på just djur. Färgschemat är väldigt avskalat, och den orange-röda färgen, som är det enda som "poppar", används för att dra blickarna till en "Stöd oss"-knapp, vilket känns rimligt givet att organisationen behöver pengar och volontärer för att bedriva sin verksamhet. WWF:s målgrupp tror jag är "folk" i allmänhet, de är en välkänd organisation, och har i de flestas medvetande ett mål som är lätt att stötta, att djuren ska få finnas kvar. Det tror jag avspeglas i den ganska enkla, bildfokuserade designen. Många djur på bild ger många pengar i bidrag.
 <br/>
 <br/>
-![WWF](%assets_url%/img/wwf.png){.me_start}
+![WWF](%assets_url%/img/wwf.PNG){.me_start}
 
 JORDENS VÄNNER
 
@@ -91,7 +91,7 @@ På startsidan används mest Doppio One, utan serifer, för rubriker och brödte
 Jag tror att Jordens Vänner är den mest radikala av de tre miljörörelser jag studerat här - åtminstone uppfattade jag det så när jag var ung, för länge sen. Det tycker jag också avspeglas i färgschemat, som är poppigare och mer ungdomligt än de övriga sidorna. Kanske kan man också ana en influens från regnbågsflaggor i färgschemat, vilket jag tror funkar väldigt bra med tanke på föreningens målgrupp, som jag tror spelar i samma liga som min äldsta son (21 år, tycker att alla ska få vara med och har stenkoll på pronomen) (i sammamnhanget vill jag nämna att jag också tycker att alla ska få vara med, men jag tror ändå inte jag ingår i målgruppen pga gammal nu).
 <br/>
 <br/>
-![JV](%assets_url%/img/jv.png){.me_start}
+![JV](%assets_url%/img/jv.PNG){.me_start}
 
 Analys
 -----------------------

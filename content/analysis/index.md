@@ -8,22 +8,31 @@ Rapporter
 ==================
 
 <div class="grid-item">
-<h3>Färger</h3>
+<a href="analysis/colors">
+<h1>Färger</h1>
+</a>
 <p></p>
+
 <i class="fas fa-angle-right grid-icon"></i>
-<a href="analysis/colors"></a>
+
 </div>
 
 <div class="grid-item">
-<h3>Laddtid</h3>
+<a href="analysis/load">
+<h1>Laddtid</h1></a>
+
 <p></p>
+
 <i class="fas fa-angle-right grid-icon"></i>
-<a href="analysis/load"></a>
+
 </div>
 
 <div class="grid-item">
-<h3>Designprinciper</h3>
+<a href="analysis/design_principles">
+<h1>Designprinciper</h1>
+</a>
 <p></p>
+
 <i class="fas fa-angle-right grid-icon"></i>
-<a href="analysis/design_principles"></a>
+
 </div>
